@@ -31,9 +31,14 @@ p {
 
 img {
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 #footer {
-    text-align: right;
+    font-family: Verdana;
+    float: right;
     color: gray;
+    font-size: 21px;
 }
